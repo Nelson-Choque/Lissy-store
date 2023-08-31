@@ -37,7 +37,7 @@ function Hero() {
     >
       <SwiperSlide>
         <img
-          src="https://d13xymm0hzzbsd.cloudfront.net/1/20230828/16932307528047.jpg"
+          src="https://images.falabella.com/v3/assets/bltf4ed0b9a176c126e/blt11170672fb181f5d/64ecb3bf9b2a808bcb98eb84/mc-mb-1-1-vestuario-280823-JL.jpg?disable=upscale&format=webp&quality=70&width=1024"
           alt=""
         />
       </SwiperSlide>
